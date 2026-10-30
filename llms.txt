@@ -4,6 +4,10 @@
 
 ## Pages
 
-- [Home](https://nguyenvanlamm.github.io/plasmatide-site/): what the game is and how it plays
-- [Support](https://nguyenvanlamm.github.io/plasmatide-site/support.html): contact, how to play, purchases and restoring them, progress
-- [Privacy Policy](https://nguyenvanlamm.github.io/plasmatide-site/privacy.html): what the game stores on the device and what it never collects
+- [Home](https://nguyenvanlamm.github.io/plasmatide-site/index.html.md): what the game is and how it plays
+- [Support](https://nguyenvanlamm.github.io/plasmatide-site/support.html.md): contact, how to play, purchases and restoring them, progress
+- [Privacy Policy](https://nguyenvanlamm.github.io/plasmatide-site/privacy.html.md): what the game stores on the device and what it never collects
+
+## Optional
+
+- [Website](https://nguyenvanlamm.github.io/plasmatide-site/): the HTML landing page, with [support](https://nguyenvanlamm.github.io/plasmatide-site/support.html) and [privacy](https://nguyenvanlamm.github.io/plasmatide-site/privacy.html) pages
