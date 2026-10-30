@@ -13,6 +13,7 @@
   --cream: #FFF8F0;
   --cream-shade: #F4DAD2;
   --heart: #C2273F;
+  --heart-text: #A51E36; /* the heart crimson, deepened to 4.9:1 on blush for text */
   --ink: #3A1026;
   --ink-soft: #6A2645;
   --display: "Quicksand", ui-rounded, "SF Pro Rounded", system-ui, sans-serif;
@@ -83,7 +84,7 @@ a:focus-visible { outline: 3px solid var(--mint-rim); outline-offset: 3px; borde
   margin: 18px auto 0; max-width: 18ch;
   font: 700 clamp(28px, 6vw, 44px)/1.15 var(--display); letter-spacing: -.01em;
 }
-.hero h1 .heart { color: var(--heart); }
+.hero h1 .heart { color: var(--heart-text); }
 .lede { margin: 16px auto 0; max-width: 34em; font-size: 18px; color: var(--ink-soft); }
 
 .status {
