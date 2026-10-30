@@ -1,0 +1,7 @@
+# Plasmatide site: all crawlers welcome, including search and AI bots.
+# GitHub Pages serves this project site under a path; crawlers read the origin's
+# https://nguyenvanlamm.github.io/robots.txt, which should list this sitemap too.
+User-agent: *
+Allow: /
+
+Sitemap: https://nguyenvanlamm.github.io/plasmatide-site/sitemap.xml

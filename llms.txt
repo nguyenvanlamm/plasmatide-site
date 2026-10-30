@@ -1,0 +1,9 @@
+# Plasmatide
+
+> Plasmatide is a single-player game for iPhone set inside a blood vessel. Germs swim up toward the heart at the top; every germ you beat leaves a mint plasma drop that drifts downstream, merges with drops it touches (+1 each merge) and is lost past the bottom. Swipe across the drops to collect plasma, then tap round cards to call immune cells (Neutrophil, B-cell, Macrophage, Killer T, Platelets and five more) that swim down to stop the germs. 60 vessels in 6 body regions (Fingertip, Throat, Lungs, Gut, Marrow, Heartway), all free to play; optional in-app purchases are two booster packs (Vial Pack, Lab Cooler) and a recolour look (Lab Stains). No ads, no analytics, no tracking, no account; progress stays on the device and the game plays offline. The game is in English. Coming soon to the App Store.
+
+## Pages
+
+- [Home](https://nguyenvanlamm.github.io/plasmatide-site/): what the game is and how it plays
+- [Support](https://nguyenvanlamm.github.io/plasmatide-site/support.html): contact, how to play, purchases and restoring them, progress
+- [Privacy Policy](https://nguyenvanlamm.github.io/plasmatide-site/privacy.html): what the game stores on the device and what it never collects
