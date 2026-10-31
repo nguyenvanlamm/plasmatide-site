@@ -35,4 +35,4 @@ Coming soon to the App Store.
 
 ---
 
-© 2026 Nguyen Van Lam · HTML version: https://nguyenvanlamm.github.io/plasmatide-site/
+© 2026 Luong Nguyen · HTML version: https://nguyenvanlamm.github.io/plasmatide-site/
